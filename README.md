@@ -1,4 +1,4 @@
-# React-Star-
+# React-Star
 
 This is a simple Express.js server.
 
